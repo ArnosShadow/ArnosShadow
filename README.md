@@ -30,16 +30,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnosShadow&layout=compact&theme=dark&text_color=5f96c7" alt="Top Languages" />
 </p>
-
+<!---
 ### Connect with me:
 ------
-
 <p align="center">
   <a href="https://es.linkedin.com/in/francisco-jos%C3%A9-jaraba-est%C3%A9vez-a16bb7265">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
-</p>
-
+</p>-->
 ## Acknowledgements
 ------
 
