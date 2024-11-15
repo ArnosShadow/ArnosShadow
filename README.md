@@ -1,4 +1,4 @@
-## Hi, I'm Arnos 👋  ![Visitas al perfil](https://komarev.com/ghpvc/?username=ArnosShadow&color=red)
+## Hi, I'm Arnos 👋
 
 <p align="center">
   <a href="https://github.com/Akshay090/svg-banners">
@@ -37,9 +37,6 @@
 <p align="center">
   <a href="https://es.linkedin.com/in/francisco-jos%C3%A9-jaraba-est%C3%A9vez-a16bb7265">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Arnos41454382">
-    <img src="https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=X&logoColor=black" alt="Twitter" />
   </a>
 </p>
 
